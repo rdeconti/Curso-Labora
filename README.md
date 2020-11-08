@@ -1,5 +1,8 @@
 # Certificações Labora
+Certificações GRATUITAS, desenvolvidas exclusivamente para a comunidade Labora. Elaboradas pela Labora e organizações parceiras, as certificações reúnem módulos focados na qualificação profissional para as competências mais desejadas pelo mercado.
+
 # Curso:Bem-vind@ à sua 2a Carrreira!
+Este é o certificado de entrada que lhe habilita para todo processo de certificações e oportunidades Labora
 
 U0 - Sessão 00 - Bem-vind@ à sua 2a Carrreira!
 
