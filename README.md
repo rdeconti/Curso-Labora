@@ -8,7 +8,8 @@ https://www.labora.tech/pt/comunidade-seniores
 
 Certificações desenvolvidas exclusivamente para a comunidade de seniores. Elaboradas pela Labora e organizações parceiras, as certificações reúnem módulos focados na qualificação profissional para as competências mais desejadas pelo mercado.
 
-# Certificação:Bem-vind@ à sua 2a Carrreira! > Concluido :heavy_check_mark:
+# Certificação:Bem-vind@ à sua 2a Carrreira!
+# > Concluido :heavy_check_mark:
 Este é o certificado de entrada que lhe habilita para todo processo de certificações e oportunidades Labora
 <p>U0 - Sessão 00 - Bem-vind@ à sua 2a Carrreira!</p>
 <p>U1 - Sessão 01 - Carreiras autogeridas</p>
@@ -23,7 +24,8 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U3 - Sessão 02 - Trabalho Sênior Labora</p>
 # <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20BEM%20VINDO%20A%20SUA%20SEGUNDA%20CARREIRA.pdf">Certificado de conclusão</a>
 
-# Certificação: Especialista em Experiência do Cliente > Concluido :heavy_check_mark:
+# Certificação: Especialista em Experiência do Cliente
+# > Concluido :heavy_check_mark:
 <p>U1 - Sessão 01 - Relacionamento com clientes</p>
 <p>U1 - Sessão 02 - Gestão do relacionamento</p>
 <p>U2 - Sessão 01 - Atendimento humano</p>
@@ -32,7 +34,8 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U3 - Sessão 02 - Exercícios práticos</p>
 # <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20ESPECIALISTA%20EM%20EXPERI%C3%8ANCIA%20DO%20CLIENTE.pdf">Certificado de conclusão</a>
   
-# Certificação: Especialista em Produtos Digitais> Status do Projeto: Em amdamento :warning:
+# Certificação: Especialista em Produtos Digitais
+# > Status do Projeto: Em amdamento :warning:
 <p>U1 - Sessão 01 - O Setor de tecnologia</p>
 <p>U1 - Sessão 02 - O que faz um(a) programador(a)?</p>
 <p>U2 - Sessão 01 - Desafios e estratégias em equipes de tecnologia</p>
