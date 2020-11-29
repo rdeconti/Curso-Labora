@@ -21,7 +21,7 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U2 - Sessão 03 - Autoconhecimento e o segundo ciclo de carreira</p>
 <p>U3 - Sessão 01- Modelo de impacto Labora</p>
 <p>U3 - Sessão 02 - Trabalho Sênior Labora</p>
-# <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20ESPECIALISTA%20EM%20EXPERI%C3%8ANCIA%20DO%20CLIENTE.pdf">Certificado de conclusão</a>
+# <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20BEM%20VINDO%20A%20SUA%20SEGUNDA%20CARREIRA.pdf">Certificado de conclusão</a>
 
 # Certificação: Especialista em Experiência do Cliente > Concluido :heavy_check_mark:
 <p>U1 - Sessão 01 - Relacionamento com clientes</p>
@@ -32,7 +32,7 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U3 - Sessão 02 - Exercícios práticos</p>
 # <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20ESPECIALISTA%20EM%20EXPERI%C3%8ANCIA%20DO%20CLIENTE.pdf">Certificado de conclusão</a>
   
-# Certificação: Especialista em Produtos Digitais> Status do Projeto: Em desenvolvimento :warning:
+# Certificação: Especialista em Produtos Digitais> Status do Projeto: Em amdamento :warning:
 <p>U1 - Sessão 01 - O Setor de tecnologia</p>
 <p>U1 - Sessão 02 - O que faz um(a) programador(a)?</p>
 <p>U2 - Sessão 01 - Desafios e estratégias em equipes de tecnologia</p>
