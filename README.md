@@ -1,3 +1,11 @@
+> Status do Projeto: Concluido :heavy_check_mark:
+
+> Status do Projeto: Em desenvolvimento :warning:
+
+
+[<img src="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20ESPECIALISTA%20EM%20EXPERI%C3%8ANCIA%20DO%20CLIENTE.pdf > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
+| :---: | 
+
 # Olá! Meu nome é Rosemeire Deconti!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/rdeconti)
@@ -21,7 +29,7 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U2 - Sessão 03 - Autoconhecimento e o segundo ciclo de carreira</p>
 <p>U3 - Sessão 01- Modelo de impacto Labora</p>
 <p>U3 - Sessão 02 - Trabalho Sênior Labora</p>
-# Certificado de conclusão: <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20BEM%20VINDO%20A%20SUA%20SEGUNDA%20CARREIRA.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+# <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20ESPECIALISTA%20EM%20EXPERI%C3%8ANCIA%20DO%20CLIENTE.pdf">Certificado de conclusão</a>
 
 # Certificação: Especialista em Experiência do Cliente 
 <p>U1 - Sessão 01 - Relacionamento com clientes</p>
@@ -43,5 +51,5 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 
 |  Certificações                                        |  Certificado        |
 | ----------------------------------------------------- | ------------------- |
-|  Certificação:Bem-vind@ à sua 2a Carrreira!           |  Célula de conteúdo |
+|  Certificação:Bem-vind@ à sua 2a Carrreira!           |  [Certificado](https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20ESPECIALISTA%20EM%20EXPERI%C3%8ANCIA%20DO%20CLIENTE.pdf) |
 |  Certificação: Especialista em Experiência do Cliente |  Célula de conteúdo |
