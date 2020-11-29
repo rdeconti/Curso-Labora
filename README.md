@@ -1,7 +1,7 @@
 # Certificações Labora
 https://www.labora.tech/pt/comunidade-seniores
 
-Certificações desenvolvidas exclusivamente para a comunidade Labora. Elaboradas pela Labora e organizações parceiras, as certificações reúnem módulos focados na qualificação profissional para as competências mais desejadas pelo mercado.
+Certificações desenvolvidas exclusivamente para a comunidade de seniores. Elaboradas pela Labora e organizações parceiras, as certificações reúnem módulos focados na qualificação profissional para as competências mais desejadas pelo mercado.
 
 # Certificação:Bem-vind@ à sua 2a Carrreira!
 Este é o certificado de entrada que lhe habilita para todo processo de certificações e oportunidades Labora
@@ -17,7 +17,7 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U3 - Sessão 01- Modelo de impacto Labora</p>
 <p>U3 - Sessão 02 - Trabalho Sênior Labora</p>
 
-# Certificação: Especialista em Experiência do Cliente
+# Certificação: Especialista em Experiência do Cliente 
 <p>U1 - Sessão 01 - Relacionamento com clientes</p>
 <p>U1 - Sessão 02 - Gestão do relacionamento</p>
 <p>U2 - Sessão 01 - Atendimento humano</p>
