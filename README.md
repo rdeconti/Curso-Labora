@@ -1,3 +1,8 @@
+# Olá! Meu nome é Rosemeire Deconti!
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/rdeconti)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
+
 # Certificações Labora
 https://www.labora.tech/pt/comunidade-seniores
 
@@ -16,7 +21,7 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U2 - Sessão 03 - Autoconhecimento e o segundo ciclo de carreira</p>
 <p>U3 - Sessão 01- Modelo de impacto Labora</p>
 <p>U3 - Sessão 02 - Trabalho Sênior Labora</p>
-# Certificado de conclusão: <a href="/Certificado de conclusão - BEM VINDO A SUA SEGUNDA CARREIRA" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+# Certificado de conclusão: <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20BEM%20VINDO%20A%20SUA%20SEGUNDA%20CARREIRA.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 # Certificação: Especialista em Experiência do Cliente 
 <p>U1 - Sessão 01 - Relacionamento com clientes</p>
@@ -33,3 +38,10 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U2 - Sessão 02 - Ética em produtos digitais</p>
 <p>U3 - Sessão 01 - Novo paradigma no desenvolvimento de produtos digitais</p>
 <p>U3 - Sessão 02 - Metodologias ágeis</p>
+
+# Certificações e certificados
+
+|  Certificações                                        |  Certificado        |
+| ----------------------------------------------------- | ------------------- |
+|  Certificação:Bem-vind@ à sua 2a Carrreira!           |  Célula de conteúdo |
+|  Certificação: Especialista em Experiência do Cliente |  Célula de conteúdo |
