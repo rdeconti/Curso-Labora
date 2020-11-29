@@ -16,6 +16,7 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 <p>U2 - Sessão 03 - Autoconhecimento e o segundo ciclo de carreira</p>
 <p>U3 - Sessão 01- Modelo de impacto Labora</p>
 <p>U3 - Sessão 02 - Trabalho Sênior Labora</p>
+# Certificado de conclusão: <a href="/Certificado de conclusão - BEM VINDO A SUA SEGUNDA CARREIRA" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 # Certificação: Especialista em Experiência do Cliente 
 <p>U1 - Sessão 01 - Relacionamento com clientes</p>
