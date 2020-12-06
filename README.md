@@ -35,12 +35,12 @@ Este é o certificado de entrada que lhe habilita para todo processo de certific
 # <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20ESPECIALISTA%20EM%20EXPERI%C3%8ANCIA%20DO%20CLIENTE.pdf">Certificado de conclusão</a>
   
 # Certificação: Especialista em Produtos Digitais
-### > Em andamento :warning:
+### > Concluido :heavy_check_mark:
 <p>U1 - Sessão 01 - O Setor de tecnologia</p>
 <p>U1 - Sessão 02 - O que faz um(a) programador(a)?</p>
 <p>U2 - Sessão 01 - Desafios e estratégias em equipes de tecnologia</p>
 <p>U2 - Sessão 02 - Ética em produtos digitais</p>
 <p>U3 - Sessão 01 - Novo paradigma no desenvolvimento de produtos digitais</p>
 <p>U3 - Sessão 02 - Metodologias ágeis</p>
-
+# <a href="https://github.com/rdeconti/Curso-Labora/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20ESPECIALISTA%20EM%20PRODUTOS%20DIGITAIS.pdf">Certificado de conclusão</a>
 
